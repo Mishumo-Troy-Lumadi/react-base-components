@@ -1,7 +1,8 @@
 {
-  "name": "@mishumo-troy-lumadi/react-base-components",
+  "name": "@Mishumo-Troy-Lumadi/react-base-components",
   "version": "0.0.1",
   "description": "Base Components",
+
   "scripts": {
     "rollup": "rollup -c"
   },
@@ -37,6 +38,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github/Mishumo-Troy-Lumad"
+    "registry": "https://npm.pkg.github/Mishumo-Troy-Lumadi"
   }
 }
